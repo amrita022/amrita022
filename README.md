@@ -86,9 +86,9 @@ I enjoy building end-to-end systems and working across the stack — from interf
 
 <br><br>
 
-![Commit Activity](https://img.shields.io/github/commit-activity/y/amrita022?style=for-the-badge&label=COMMITS)
-![Pull Requests](https://img.shields.io/github/issues-pr/amrita022?style=for-the-badge&label=PULL%20REQUESTS)
-![Issues](https://img.shields.io/github/issues/amrita022?style=for-the-badge&label=ISSUES)
+![Commit Activity](https://img.shields.io/github/commit-activity/y/amrita022/amrita022?style=for-the-badge&label=COMMITS)
+![Pull Requests](https://img.shields.io/github/issues-pr/amrita022/amrita022?style=for-the-badge&label=PULL%20REQUESTS)
+![Issues](https://img.shields.io/github/issues/amrita022/amrita022?style=for-the-badge&label=ISSUES)
 ![Repositories](https://img.shields.io/badge/Repositories-View-181717?style=for-the-badge&logo=github)
 
 </div>
